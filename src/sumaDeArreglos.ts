@@ -19,4 +19,5 @@ for (indice = 0; indice < 6; indice++) {
   sumaDeArreglos3[indice] = arreglo1[indice] + arreglo2[indice];
 }
 for (indice = 0; indice < 6; indice++) {
-  console.log("la suma de arreglos es: sumaDeArreglos3[indice])"
+  console.log("la suma de arreglos es: sumaDeArreglos3[indice]");
+}
